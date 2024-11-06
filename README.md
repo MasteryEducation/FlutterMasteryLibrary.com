@@ -174,4 +174,4 @@ See [LICENSE](LICENSE.md) for more information.
     npm install
     npm update
     hugo mod get -u ./...
-    git add -A && git commit -am. && git pushDD
+    git add -A && git commit -am. && git push
