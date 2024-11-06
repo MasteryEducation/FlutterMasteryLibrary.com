@@ -73,6 +73,7 @@ security:
       - ^HUGO
       - CI$
       - PWD
+      - GITHUB_TOKEN
 
 markup:
   tableOfContents:

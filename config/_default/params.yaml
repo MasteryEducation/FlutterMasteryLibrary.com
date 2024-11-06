@@ -17,8 +17,8 @@ meta:
 hb:
   revision:
     repo_service: github
-    repo_owner: FuadEfendi
-    repo_name: MasteryEducation/FlutterMasteryLibrary.com
+    repo_owner: MasteryEducation
+    repo_name: FlutterMasteryLibrary.com
     repo_branch: main
     repo_subpath: ''
     repo_contributors: true
