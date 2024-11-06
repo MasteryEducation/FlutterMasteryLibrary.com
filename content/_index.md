@@ -1,11 +1,11 @@
 ---
 title: "Flutter Mastery Library"
 description: "Welcome to Flutter Mastery Library"
-homepage: true
+# homepage: true
 type: docs
 ---
 
-# MyAmazingProject
+# Flutter Mastery Library
 
 
 ---
