@@ -171,6 +171,7 @@ See [LICENSE](LICENSE.md) for more information.
     brew upgrade node
     node --version
     brew upgrade node
+    npm install
+    npm update
     hugo mod get -u ./...
-
-git add -A && git commit -am. && git pushDD
+    git add -A && git commit -am. && git pushDD
