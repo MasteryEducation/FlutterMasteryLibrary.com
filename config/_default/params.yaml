@@ -106,7 +106,7 @@ hb:
       repo_id: R_kgDONJh4uw
       category: Announcements
       category_id: DIC_kwDONJh4u84CkC04
-      mapping: url
+      mapping: title
       strict_matching: true
       input_position: top
       reactions: true
