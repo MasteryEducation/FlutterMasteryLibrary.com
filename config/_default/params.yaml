@@ -134,12 +134,12 @@ pwa:
 # https://hugomods.com/search/configurations/
 search:
   #distance: 25
-  ignore_location: false
-  location: 0
-  threshold: 0.8
+  #ignore_location: false
+  #location: 0
+  #threshold: 0.8
   #stall_threshold: 300
-  min_match_char_length: 50 # so that smaller subtitles should not match
-  case_sensitive: false
+  #min_match_char_length: 50 # so that smaller subtitles should not match
+  #case_sensitive: false
   # shortcut_search: ["/"]
   #key_weights.title: 1000
   #key_weights.headings: 0.001
