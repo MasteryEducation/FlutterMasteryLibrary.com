@@ -54,7 +54,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: FlutterMasteryLibrary.com
+        title: Flutter Mastery Library
       posts:
         recent_count: 0
         featured_count: 0
@@ -129,7 +129,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'FlutterMasteryLibrary.com'
+    short_name: 'Flutter Mastery Library'
 
 # https://hugomods.com/search/configurations/
 search:
