@@ -10,7 +10,7 @@ menu:
     parent: beginner
     weight: 4
     params:
-      description: : Building Apps with Hands-On Projects
+      description: Building Apps with Hands-On Projects
       icon:
         vendor: bs
         name: book
