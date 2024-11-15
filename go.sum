@@ -138,6 +138,8 @@ github.com/hbstack/docs v0.19.0 h1:cnIbIpLtfWIEfCov6KyJzKG0SnCXOYuTThHlfLRRfow=
 github.com/hbstack/docs v0.19.0/go.mod h1:C58ZH20u3yjzwcZL4emE+HIYrudHPAd94/c/xZdqp1w=
 github.com/hbstack/docs v0.20.1 h1:v/ByBrh8lvHpZ2q5hYPt30SUwEGSHT9W64fsLs4irJQ=
 github.com/hbstack/docs v0.20.1/go.mod h1:34Lnp91olEaYg2Ipbgx667U2EXz+aNRcPq7VUyYNook=
+github.com/hbstack/docs v0.21.0 h1:WtyQFc/LuCvd/coVZoyW1FgLkUpUQUWZaF25++NzljI=
+github.com/hbstack/docs v0.21.0/go.mod h1:ELqW8PDL68RHa8RwdmfyEB2smfP8nYN4ryhLmYptawU=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/breadcrumb v0.1.10 h1:Ryp68WkRdOxL2UlGNYtN5ZJUxbbHv7bWe0NdzDt2Obg=
@@ -245,6 +247,8 @@ github.com/hbstack/revision v0.6.4 h1:8rGYk1anWUUj4OAAlNRx3GVZ9EtXkAIvo/N6GjH2F9
 github.com/hbstack/revision v0.6.4/go.mod h1:f92y0zEKu/M1yhxXEmJCnfIm9EBnysQFGU89djsgDs8=
 github.com/hbstack/revision v0.6.6 h1:TbmZ0Z8wNJ1bng/uzOxY7/LBhl01gUADPfy/1VBw+/k=
 github.com/hbstack/revision v0.6.6/go.mod h1:P4Z51jp/LzYFglkT0oYtzXUgSZifw/vuXHtZNet+6UA=
+github.com/hbstack/revision v0.6.8 h1:LO5RVWfPdNmRfKZJ+QVq2RNGZkGWfzjLBPaca3wCN74=
+github.com/hbstack/revision v0.6.8/go.mod h1:SQQ1u5JVvXM29Mww7R6/M5R7ofF8PJLW2fNdvfWOmIw=
 github.com/hbstack/scrollbar v0.1.0 h1:uQMNbkWbLxnjQMiD3zdt33RG48sY2a0XWyGQkK2HsyY=
 github.com/hbstack/scrollbar v0.1.0/go.mod h1:BEDha5gOjQfXBKZfwT+4vn8hCE88qElocjEI2SY1eAs=
 github.com/hbstack/search v0.2.1 h1:u7DbLPZ0WO1db2ARb2reubn5KzPE3wG6NLrgylB6WQg=
@@ -340,6 +344,8 @@ github.com/hugomods/icons/vendors/bootstrap v0.5.7 h1:k2oXx7EOqiqPv9SRb2mtSiPtdW
 github.com/hugomods/icons/vendors/bootstrap v0.5.7/go.mod h1:bTxiIPJ/idHEc35EtvtwSODLpjI+R54BkGdikO3gCmY=
 github.com/hugomods/icons/vendors/bootstrap v0.5.8 h1:6M+G4F58pt3GkiGFeCDjKonExVV8PbBAVhDS8YQT7oY=
 github.com/hugomods/icons/vendors/bootstrap v0.5.8/go.mod h1:jla3IbQAByyz45AikUAw/c7h0wUMUn5Z2j4gh+zVDj4=
+github.com/hugomods/icons/vendors/bootstrap v0.5.9 h1:IlKsW1iybTNZLYnMipyc2d9w51rUtu89lPMkocGaP6c=
+github.com/hugomods/icons/vendors/bootstrap v0.5.9/go.mod h1:DuB5N1o3GCUyvYFnEeBvJRBrCHqbMWEbjoEWVLULggw=
 github.com/hugomods/icons/vendors/font-awesome v0.6.6 h1:rb12roByF9LZfUxBpyhyqenkcX2+VGkYf5jJ/55OPHo=
 github.com/hugomods/icons/vendors/font-awesome v0.6.6/go.mod h1:2IVdmnq+IWCnPFYsvbxq59dTuW3+prPLerpu8Ezobro=
 github.com/hugomods/icons/vendors/font-awesome v0.6.7 h1:ClgvOsbHwl/I2tBhKAJs9iLveNLryjeBze4J4N0E0VA=
@@ -348,6 +354,8 @@ github.com/hugomods/icons/vendors/font-awesome v0.6.8 h1:wcqovckhWxcYTkOn4JOp2Hl
 github.com/hugomods/icons/vendors/font-awesome v0.6.8/go.mod h1:IwJEJX8eFwDFCcxMjFBIgVWlPTf16yFVk78Rc3RUBjs=
 github.com/hugomods/icons/vendors/font-awesome v0.6.9 h1:ZpnyXeCOa9n7NBVURSRIZuGZykz80udHT8yxM+RE6NQ=
 github.com/hugomods/icons/vendors/font-awesome v0.6.9/go.mod h1:YPxdyI0WHuZfvwNeG8ADHXwnWmWIuu3PqiYGz8q9Skw=
+github.com/hugomods/icons/vendors/font-awesome v0.6.10 h1:rneykY+FWcFpyBhTbva5tP4vZJd+mKsIUGxRIJ9LjB8=
+github.com/hugomods/icons/vendors/font-awesome v0.6.10/go.mod h1:3izAIdRkMg2O0N1RWB4Uw615VErx75b/nC/199BYV50=
 github.com/hugomods/icons/vendors/simple-icons v1.0.38 h1:Kb0oqnHy00GLPllVsMQkc1fWcVv+meiyqki49zP/XyU=
 github.com/hugomods/icons/vendors/simple-icons v1.0.38/go.mod h1:XhswsNEfVeOhYACVe9+IIN7Z2AN0keT1ddnWv/vHp9A=
 github.com/hugomods/icons/vendors/simple-icons v1.0.40/go.mod h1:594XsVTJ2lgbzAUy/4OopxsZEeAOKmg8GfOBwiBiCe8=
@@ -380,6 +388,8 @@ github.com/hugomods/icons/vendors/simple-icons v1.0.58 h1:HAw65rHyKmCkjUf/+HaiU4
 github.com/hugomods/icons/vendors/simple-icons v1.0.58/go.mod h1:FNv3PHfJQi+Ri6tPkwjmpoCb437VqyWZdrLxO6VfmTk=
 github.com/hugomods/icons/vendors/simple-icons v1.0.59 h1:zpjSmGkhcG40fzEVL+xDQRrPf0vk+xfeWWrw/Gixz/s=
 github.com/hugomods/icons/vendors/simple-icons v1.0.59/go.mod h1:orl9o8nQFUF8h4m0qS+ympS8btJTaTxx4ZsXHSvXzHw=
+github.com/hugomods/icons/vendors/simple-icons v1.0.60 h1:cfAx6+n6XQfEOoGIzdLqRQzGzfc3xq5Sjy3Hx1oUrDs=
+github.com/hugomods/icons/vendors/simple-icons v1.0.60/go.mod h1:/skqfU1fJ+WnPV8nX3sP2yTBJc7PLMdciMp8qNXDKYU=
 github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY=
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.10.1 h1:ok3ZUZ63MAcmFuTx2kC5JJ3Sffd420RRW9yO57SFeQA=
