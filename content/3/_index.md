@@ -5,7 +5,7 @@ linkTitle: Visual Learning with Flutter
 description: |
   Master Flutter and Dart with this comprehensive, visually-rich guide designed for aspiring developers.
 type: docs
-nav_weight: 2
+nav_weight: 3
 menu:
   main:
     parent: beginner
@@ -16,6 +16,7 @@ menu:
         vendor: bs
         name: book
         className: text-primary
+homepage: true
 ---
 
 ## Visual Learning with Flutter: The Ultimate Graphical Guide for Beginner App Developers
