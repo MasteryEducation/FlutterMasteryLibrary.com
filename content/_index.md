@@ -5,6 +5,8 @@ description: |
   Discover expertly crafted Flutter development books at FlutterMasteryLibrary.com. From beginners to experts, elevate your skills with comprehensive guides on app development, state management, UI/UX, and more.
 homepage: true
 type: docs
+canonical: "https://fluttermasterylibrary.com"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 # FlutterMasteryLibrary.com: Your Ultimate Destination for Mastering Flutter Development

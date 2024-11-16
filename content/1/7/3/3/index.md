@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 733000
+canonical: "https://fluttermasterylibrary.com/1/7/3/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.3.3 SQLite Databases with `sqflite`

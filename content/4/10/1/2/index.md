@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1012000
+canonical: "https://fluttermasterylibrary.com/4/10/1/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.1.2 Types of Animations in Flutter

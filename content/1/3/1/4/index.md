@@ -17,6 +17,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 314000
+canonical: "https://fluttermasterylibrary.com/1/3/1/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 3.1.4 Rendering Process

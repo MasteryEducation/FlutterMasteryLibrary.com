@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 233000
+canonical: "https://fluttermasterylibrary.com/5/2/3/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 2.3.3 Fun with Numbers and Words

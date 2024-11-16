@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 723000
+canonical: "https://fluttermasterylibrary.com/7/7/2/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.2.3 Using Reactions and Computed Values

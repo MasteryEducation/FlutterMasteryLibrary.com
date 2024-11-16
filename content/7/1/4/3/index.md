@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 143000
+canonical: "https://fluttermasterylibrary.com/7/1/4/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 1.4.3 Identifying the Need for Advanced Management

@@ -16,6 +16,8 @@ menu:
         name: book
         className: text-primary
 homepage: true
+canonical: "https://fluttermasterylibrary.com/5"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Ignite Young Minds with "Kids Can Code: Introducing Flutter to Young Minds" – The Ultimate Guide to Building Future Coders’ Apps!

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1332000
+canonical: "https://fluttermasterylibrary.com/6/13/3/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 13.3.2 Using Lottie for Complex Animations

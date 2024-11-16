@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 10210
 
+canonical: "https://fluttermasterylibrary.com/2/10/2/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.2.1 App Store Guidelines Compliance

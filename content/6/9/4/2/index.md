@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 942000
+canonical: "https://fluttermasterylibrary.com/6/9/4/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.4.2 Firebase Realtime Database and Firestore

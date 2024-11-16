@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 644000
+canonical: "https://fluttermasterylibrary.com/2/6/4/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 6.4.4 Handling Right-to-Left Layouts

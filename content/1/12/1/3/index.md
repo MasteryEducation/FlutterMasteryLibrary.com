@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1213000
+canonical: "https://fluttermasterylibrary.com/1/12/1/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.1.3 Open Source Contributions

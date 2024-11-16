@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 11240
 
+canonical: "https://fluttermasterylibrary.com/3/11/2/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 11.2.4 Submitting Your Flutter App to Google Play Store: A Comprehensive Guide

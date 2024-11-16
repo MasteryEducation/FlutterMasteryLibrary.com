@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 9310
 
+canonical: "https://fluttermasterylibrary.com/5/9/3/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.3.1 Multiple Screens

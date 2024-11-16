@@ -18,6 +18,8 @@ menu:
         name: book
         className: text-primary
 homepage: true
+canonical: "https://fluttermasterylibrary.com/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Visual Learning with Flutter: The Ultimate Graphical Guide for Beginner App Developers

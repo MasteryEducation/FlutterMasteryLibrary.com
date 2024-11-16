@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1224000
+canonical: "https://fluttermasterylibrary.com/4/12/2/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.2.4 Integration Testing

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1052000
+canonical: "https://fluttermasterylibrary.com/6/10/5/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.4.2 A/B Testing in Flutter

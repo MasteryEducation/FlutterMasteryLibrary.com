@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 732000
+canonical: "https://fluttermasterylibrary.com/2/7/3/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.3.2 Setting Up a CI Pipeline

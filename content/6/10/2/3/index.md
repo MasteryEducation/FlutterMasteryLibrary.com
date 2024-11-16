@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1023000
+canonical: "https://fluttermasterylibrary.com/6/10/2/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.1.3 Setting Up Test Environments

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 930000
+canonical: "https://fluttermasterylibrary.com/6/9/2/10"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.2.3 Hive and Object Storage

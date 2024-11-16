@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1442000
+canonical: "https://fluttermasterylibrary.com/6/14/4/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 14.4.2 The Impact of Your Work

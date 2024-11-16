@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 713000
+canonical: "https://fluttermasterylibrary.com/5/7/1/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.1.3 Game Loop Concept

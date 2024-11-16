@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 11330
 
+canonical: "https://fluttermasterylibrary.com/3/11/3/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 11.3.3 Testing on iOS Devices

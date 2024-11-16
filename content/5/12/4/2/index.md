@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 12420
 
+canonical: "https://fluttermasterylibrary.com/5/12/4/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.4.2 Staying Connected: Keep Learning and Growing in the Coding Community

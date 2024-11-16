@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 714000
+canonical: "https://fluttermasterylibrary.com/4/7/1/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.1.4 Passing Data Between Screens

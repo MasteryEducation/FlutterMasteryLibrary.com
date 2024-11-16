@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1542000
+canonical: "https://fluttermasterylibrary.com/3/15/4/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 15.4.2 Implementing Secure Authentication

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 544000
+canonical: "https://fluttermasterylibrary.com/7/5/4/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 5.4.4 Optimizing Performance in Flutter Bloc: Techniques and Best Practices

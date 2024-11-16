@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 431000
+canonical: "https://fluttermasterylibrary.com/1/4/3/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 4.3.1 Mastering Alignment and Padding in Flutter

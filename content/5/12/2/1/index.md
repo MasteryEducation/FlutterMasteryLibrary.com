@@ -17,6 +17,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1221000
+canonical: "https://fluttermasterylibrary.com/5/12/2/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.2.1 Trends in Coding

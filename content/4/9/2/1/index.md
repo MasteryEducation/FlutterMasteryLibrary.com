@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 921000
+canonical: "https://fluttermasterylibrary.com/4/9/2/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.2.1 Using the HTTP Package

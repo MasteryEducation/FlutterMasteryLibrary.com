@@ -17,6 +17,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1234000
+canonical: "https://fluttermasterylibrary.com/6/12/3/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.3.4 Monitoring After Deployment

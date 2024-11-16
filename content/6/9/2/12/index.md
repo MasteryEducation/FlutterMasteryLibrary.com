@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 932000
+canonical: "https://fluttermasterylibrary.com/6/9/2/12"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.2.5 Handling Large Data Sets

@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 13330
 
+canonical: "https://fluttermasterylibrary.com/6/13/3/3"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 13.3.3 Performance Considerations

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 751000
+canonical: "https://fluttermasterylibrary.com/6/7/5/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.4.1 Riverpod: Enhancing State Management in Flutter

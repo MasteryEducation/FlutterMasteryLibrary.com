@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 432000
+canonical: "https://fluttermasterylibrary.com/3/4/3/2"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 4.3.2 Builder Pattern in Flutter

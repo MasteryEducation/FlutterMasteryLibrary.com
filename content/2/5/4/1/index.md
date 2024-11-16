@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 541000
+canonical: "https://fluttermasterylibrary.com/2/5/4/1"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 5.4.1 Creating Forms with Form Widget

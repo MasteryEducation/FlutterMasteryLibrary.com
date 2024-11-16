@@ -1,6 +1,8 @@
 ---
 title: SVG Test
 draft: true
+canonical: "https://fluttermasterylibrary.com"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 {{< svg >}}
