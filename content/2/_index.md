@@ -1,7 +1,8 @@
 ---
 title: |
-  From Zero to App Store: Your Ultimate Guide to Publishing Your First Flutter App
-linkTitle: From Zero to App Store
+  From Zero to App Store
+linkTitle: |
+  Book 2: From Zero to App Store
 description: |
   Unlock your potential as an app developer with **From Zero to App Store: Publishing Your First Flutter App.** This comprehensive guide takes you step-by-step through building and launching your first Flutter application on both the Apple App Store and Google Play Store. Perfect for beginners, this book demystifies app development with practical tutorials, expert insights, and essential tips for a successful launch. Start your journey today and bring your innovative ideas to life!
 type: docs

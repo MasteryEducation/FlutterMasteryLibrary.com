@@ -1,6 +1,7 @@
 ---
 title: Interactive Flutter
-linkTitle: Interactive Flutter
+linkTitle: |
+  Book 4: Interactive Flutter
 description: |
   Dive into "Interactive Flutter: Building Apps with Hands-On Projects" and transform your app development skills. Perfect for beginners and intermediates, this comprehensive guide offers complete code examples, engaging projects, and expert insights to help you build stunning Flutter applications. Start your Flutter journey today!
 type: docs

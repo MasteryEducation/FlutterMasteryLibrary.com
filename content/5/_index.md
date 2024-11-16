@@ -1,6 +1,7 @@
 ---
 title: Kids Can Code
-linkTitle: Kids Can Code
+linkTitle: |
+  Book 5: Kids Can Code
 description: 
 type: docs
 nav_weight: 5

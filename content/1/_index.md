@@ -1,7 +1,8 @@
 ---
 title: |
-  Embark on Your Flutter Journey: The Ultimate Roadmap to App Development
-linkTitle: Embark on Your Flutter Journey
+  Embark on Your Flutter Journey
+linkTitle: |
+  Book 1: Embark on Your Flutter Journey
 description: |
   **Flutter Journey: A Beginner's Roadmap to App Development** is the ultimate guide for aspiring developers looking to learn Flutter and Dart programming. This comprehensive book covers everything from the basics of Dart to advanced Flutter widgets, state management, networking, and app deployment. With hands-on projects and clear explanations, you'll master Flutter app development and build cross-platform mobile applications with ease. Ideal for beginners and experienced programmers alike, this book is your gateway to becoming a proficient Flutter developer in 2024
 
@@ -18,11 +19,8 @@ menu:
         name: book
         className: text-primary
 
-
 ---
 
-
----
 
 
 ## Unlock the power of Flutter and transform your app development skills with "Flutter Journey: A Beginner's Roadmap to App Development.

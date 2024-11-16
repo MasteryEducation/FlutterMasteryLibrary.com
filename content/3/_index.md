@@ -1,7 +1,8 @@
 ---
 title: |
   Visual Learning with Flutter
-linkTitle: Visual Learning with Flutter
+linkTitle: |
+  Book 3: Visual Learning with Flutter
 description: |
   Master Flutter and Dart with this comprehensive, visually-rich guide designed for aspiring developers.
 type: docs
